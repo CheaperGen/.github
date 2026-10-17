@@ -1,5 +1,10 @@
 <p align="center">
-  <a href="https://cheapergen.com"><img src="https://cheapergen.com/brand/logo-reversed.svg" alt="Cheaper Gen." height="56"></a>
+  <a href="https://cheapergen.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cheapergen.com/brand/logo-reversed.svg">
+      <img src="https://cheapergen.com/brand/logo.svg" alt="Cheaper Gen." height="56">
+    </picture>
+  </a>
 </p>
 
 <h3 align="center">The best AI video &amp; image models. For less.</h3>
