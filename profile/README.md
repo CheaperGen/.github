@@ -23,7 +23,7 @@
 
 ---
 
-**Why it's cheaper** — direct partnerships with the model labs for the lowest channel pricing, our own inference engine for some models, and automatic routing of every request to the fastest, most cost-effective healthy channel. Same official models; failed runs are free.
+**Why it's cheaper** — direct partnerships with the model labs for the lowest channel pricing, our own inference engine for open-source models, and automatic routing of every request to the fastest, most cost-effective healthy channel. Same official models; failed runs are free.
 
 ### Use it from your agent
 
