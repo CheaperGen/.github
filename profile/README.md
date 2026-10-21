@@ -2,7 +2,7 @@
   <a href="https://cheapergen.com">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cheapergen.com/brand/logo-reversed.svg">
-      <img src="https://cheapergen.com/brand/logo.svg" alt="Cheaper Gen." height="56">
+      <img src="https://cheapergen.com/brand/logo.svg" alt="CheaperGen" height="56">
     </picture>
   </a>
 </p>
